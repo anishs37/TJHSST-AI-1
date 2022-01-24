@@ -7,7 +7,7 @@ Sliding puzzles are combination puzzles where a player has to slide the tiles (i
 ## Part 1: BFS and BiBFS
 Solving a file of sliding puzzles using either BFS or BiBFS.
 
-BFS: Run SlidingPuzzles1_BFS.py with 15_puzzles.txt as an argument.
+BFS: Run SlidingPuzzles1_BFS.py with 15_puzzles.txt as an argument.  
 Bi-BFS: Run SlidingPuzzles1_BiBFS.py with 15_puzzles.txt as an argument.
 
 ## Part 2: Adding ID-DFS and A*
